@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.rabotavtaxinaavto.opentaxicash"
         versionCode = "10"
-        version     = "1.2.0">
+        version     = "1.3.0">
 
-    <name>www.salevi.ru</name>
+    <name>Подключение к такси водителей</name>
 
     <description>
-        Регистрация в Яндекс.Такси водителем
+        Подключение к такси для водителей 0+
     </description>
 
     <author>Tadapp</author>
